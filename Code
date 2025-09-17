@@ -1,3 +1,0 @@
-name = input("Enter your name: ")print(f"Hello {name}, have a nice day")
-num_1 = int(input("Enter num: "))num_2 = int(input("Enter num: "))num_3 = num_1 + num_2 print(f"Total value: {num_3}")
-def update_balance(current_balance, deposit_amount):new_balance =  current_balance + deposit_amount print("Your new total balance is:", new_balance)current = int(input("Enter your current balance: "))deposit = int(input("Enter the deposit amount: "))update_balance(current, deposit)
